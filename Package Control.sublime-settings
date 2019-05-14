@@ -1,0 +1,32 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"ayu",
+		"Base Encoder",
+		"DocBlockr",
+		"HTMLBeautify",
+		"INI",
+		"LiveReload",
+		"Markdown Table Formatter",
+		"MarkdownPreview",
+		"Monokai - Spacegray",
+		"Monokai Extended",
+		"Monokai Gray",
+		"Package Control",
+		"PHP-Twig",
+		"PhpDoc",
+		"Pretty JSON",
+		"SCSS",
+		"SideBarEnhancements",
+		"SublimeCodeIntel"
+	],
+	"repositories":
+	[
+		"https://raw.github.com/Grafikart/ST3-LiveReload/master/package.json"
+	]
+}
